@@ -1,0 +1,44 @@
+<resources>
+
+    // app description strings
+    <string name="app_name">HomeScreenAssignment</string>
+    <string name="app_version">1.0</string>
+
+    // error messages
+    <string name="error_empty_feed">Please add feed</string>
+    <string name="error_empty_email">Provide your Email first!</string>
+    <string name="error_empty_password">Enter Password!</string>
+    <string name="error_empty_fields">Fields Empty!</string>
+    <string name="error_in_login">Fields Empty!</string>
+    <string name="error_unknown">An unknown erros occured</string>
+    <string name="sign_up_fail">SignUp unsuccessful:</string>
+
+    // success messages
+    <string name="feed_creation_success">Feed Created Successfully!"</string>
+    <string name="feed_updated_success">Feed Updated Successfully!"</string>
+    <string name="user_logged_in">User logged in </string>
+
+    //request messages
+    <string name="log_in_request">Login to continue</string>
+
+    // Login/SignUp module strings
+    <string name="welcome">WELCOME!!</string>
+    <string name="logout">Logout</string>
+    <string name="login">Log In</string>
+    <string name="new_user">New User? Register Here</string>
+    <string name="old_user">Already have an account? Sign in Here</string>
+    <string name="sign_up">Sign Up</string>
+
+
+    // feed module strings
+    <string name="create_feed">create Feed</string>
+    <string name="view_feed_list">view Feed List</string>
+    <string name="user_id_label">User Id : - </string>
+    <string name="feed_label">Feed :- </string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="update_feed">Update</string>
+
+
+
+</resources>
